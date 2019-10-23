@@ -1,0 +1,41 @@
+﻿ItemCode;Tipo
+SERV039PUT;Carro Público
+SERV130MO;Motocicleta
+SERV036PACP;Motocarro Partícular
+SERV130PUT;Carro Partícular
+SERV039PACPCC;Carro Partícular
+SERV130PU;Carro Público
+SERV156;Motocicleta
+SERV127;Carro Público
+SERV186;Carro Partícular
+SERV039OFCC;Carro Público
+SERV039PUCP;Carro Público
+SERV034TR;Remolques/Semi
+SERV035IP;Maq. Agrícola
+SERV130OF;Carro Oficial
+SERV035;Maq. Agrícola
+SERV039PA;Carro Partícular
+SERV130PUB;Carro Público
+SERV145;Cuatrimoto
+SERV037;Motocicleta
+SERV039PACP;Carro Partícular
+SERV036PA;Motocarro Partícular
+SERV036PACC;Motocarro Partícular
+SERV037CP;Motocicleta
+SERV144;Carro Público
+SERV130PA;Carro Partícular
+SERV150TI;Carro Público
+SERV034;Remolques/Semi
+SERV130PAT;Carro Partícular
+SERV184;Motocicleta
+SERV141;Carro Público
+SERV036PAICC;Motocarro Partícular
+SERV150;Carro Público
+SERV035TR;Maq. Agrícola
+SERV035CM;Maq. Agrícola
+SERV039PU;Carro Público
+SERV036PU;Motocarro Público
+SERV034P;Remolques/Semi
+SERV037CC;Motocicleta
+SERV036PUCP;Motocarro Público
+SERV039OF;Carro Oficial
